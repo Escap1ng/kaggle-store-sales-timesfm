@@ -1,5 +1,7 @@
 # Kaggle Store Sales × TimesFM-3
 
+English: [README.en.md](README.en.md)
+
 本仓库保存 Kaggle「Store Sales - Time Series Forecasting」赛题的代码与实验结论。任务是对厄瓜多尔 Favorita 超市 54 家门店 × 33 个商品家族预测未来 16 天的日销售额，指标 RMSLE。
 
 最终成绩：**公榜 0.38980**（TimesFM-3 零样本预测 70% + 递归 LightGBM 30% 的加权融合）。
